@@ -1,0 +1,13 @@
+[requires]
+glfw/3.3.6
+glew/2.2.0
+glm/cci.20230113
+imgui/1.90.8
+assimp/5.2.2
+openal/1.22.2
+bullet3/3.25
+drwav/0.13.14
+
+[generators]
+CMakeDeps
+CMakeToolchain
